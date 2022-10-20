@@ -1,0 +1,15 @@
+{
+    "name" : "Color-picker",
+    "description" : "Here user can pick any color with color code",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup": "index.html"
+        
+    },
+    "icons":{
+        "16":"dart.png",
+        "32":"dart.png",
+        "48":"dart.png"
+    }
+}
